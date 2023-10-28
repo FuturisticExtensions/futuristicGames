@@ -1,3 +1,3 @@
 # Futuristic Games
 
-A place where you can get games to embed in your next project!
+A place where you can get games that you can embed in any website!
