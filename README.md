@@ -8,7 +8,8 @@ Enjoy!
 
 Create an iframe with a src of https://futuristicextensions.github.io/futuristicGames/NameOfHTMLFile
 
-Here are all the games we have:
+Here are all the games we made:
 
 Flappy Bird: flappybird.html
+
 The World's Hardest Games: worldshardestgame.html
